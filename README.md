@@ -7,3 +7,4 @@ This repo is a personal collection of what I've learnt on any given day. Whilst 
 | Date       | Subject                                                                                                     |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
 | 2025-02-25 | [A different approach to Spring properties](/topics/A%20different%20approach%20to%20Spring%20properties.md) |
+| 2025-02-26 | [I've been doing Filter Chains wrong](/topics/ive-been-doing-filter-chains-wrong.md)                        |
